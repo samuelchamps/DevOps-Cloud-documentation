@@ -1,0 +1,26 @@
+# Hello, Linux! 
+
+Project Overview
+This is my first Bash project as part of my Linux learning journey.  
+The goal of this project is to get familiar with:
+
+- Creating and running Bash scripts
+- Printing output to the terminal
+- Using variables
+- Performing basic arithmetic
+- Interactive user input (optional challenge)
+
+Scenario
+Imagine you are a new Junior Linux Administrator at a startup.  
+Before doing serious work, your manager asks you to:
+
+1. Create a script and run it on the server.
+2. Print a friendly greeting to the terminal.
+3. Store and use a variable (like your name) in the script.
+4. Perform a simple calculation to confirm that arithmetic works in Bash.
+
+How to Run the Script
+
+1. Make the script executaible:
+   ```bash
+   chmod +x hello_linux.sh
