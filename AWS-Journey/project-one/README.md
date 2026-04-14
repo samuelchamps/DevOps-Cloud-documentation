@@ -1,4 +1,4 @@
-## 🚀 Project Overview
+## Project Overview
 
 This project demonstrates how to deploy a static HTML website on an AWS EC2 instance using a web server (Nginx/Apache).
 
@@ -10,11 +10,11 @@ The goal is to understand:
 
 Jira was used to track the workflow from planning to deployment.
 
-## 🏗️ Architecture
+## Architecture
 
 User → EC2 Instance → Web Server (Nginx) → Static Website
 
-## 🧰 Tools Used
+## Tools Used
 
 - AWS EC2
 - Nginx / Apache
@@ -74,7 +74,7 @@ User → EC2 Instance → Web Server (Nginx) → Static Website
 - Accessed EC2 public IP
 - Confirmed website loads successfully
 
-## 📊 Jira Workflow
+## Jira Workflow
 
 Jira was used to track the project lifecycle:
 
@@ -90,7 +90,7 @@ Jira was used to track the project lifecycle:
 - Bugs were created for issues encountered during deployment
 
 
-## 🎯 Key Learnings
+## Key Learnings
 
 - How to provision EC2 instances
 - Importance of security group configuration
