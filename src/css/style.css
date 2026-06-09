@@ -1,0 +1,6 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: Arial, sans-serif; background: #0d1117; color: #e6edf3; }
+header { background: #161b22; padding: 1rem 2rem; border-bottom: 2px solid #2e75b6; }
+h1 { color: #58a6ff; }
+nav a { color: #8b949e; margin-left: 1rem; text-decoration: none; }
+main { padding: 3rem 2rem; }
