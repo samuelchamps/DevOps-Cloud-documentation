@@ -1,0 +1,15 @@
+## 📌 Project Overview
+
+This project demonstrates how I deployed a web server using Nginx on a Linux-based EC2 instance. The goal was to understand server provisioning, service management, and basic networking concepts.
+
+### 🏗️ Environment
+- Cloud Provider: AWS EC2
+- Operating System: Ubuntu
+- Web Server: Nginx
+- Access Method: SSH
+
+### 🎯 Objectives
+- Launch a cloud server
+- Install and configure Nginx
+- Access the server via browser
+- Verify web server functionality
